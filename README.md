@@ -10,5 +10,5 @@
 
 ​帮助文档:[help.md](./doc/help.md)
 
-​Email:littleboyfury@gmail.com
+​Email:cxjwllxm@gmail.com
 
