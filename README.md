@@ -8,6 +8,7 @@
 同时每次提交都会更新yapi中的api文档，达到只需要在代码中修改apidoc的注释，同步更新yapi。
 缺点：接口中的注释会很多，不支持apidoc的不同版本的api。
 
+支持转化为jsonschema请求格式检查转换，大致转换，需要自行修改
 ​帮助文档:[help.md](./doc/help.md)
 
 ​Email:cxjwllxm@gmail.com
