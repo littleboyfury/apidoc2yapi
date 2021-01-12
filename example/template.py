@@ -77,3 +77,4 @@ class Template:
         @apiParam (Path) {String} id template id
         """
         pass
+
