@@ -1,9 +1,4 @@
 # _*_ coding: utf-8 _*_
-# @Time : 2020/9/21 10:30
-# @Author : Zhang Xingjun
-# @Version ：V 0.1
-# @File : template.py
-# @desc : 模板
 
 
 class Template:
