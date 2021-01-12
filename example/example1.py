@@ -215,3 +215,4 @@ class Example1:
         @apiParam (Path) {String} id example1 id
         """
         pass
+
