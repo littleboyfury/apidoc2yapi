@@ -1,8 +1,4 @@
 # _*_ coding: utf-8 _*_
-# @Time: 2020/9/21 09:36
-# @Author: Zhang Xingjun
-# @Version: V 0.1
-# @File: example2.py.py
 
 
 class Examples2:
