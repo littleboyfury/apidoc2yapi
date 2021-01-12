@@ -59,6 +59,8 @@ python3 apidoc2yapi.py -s ./apidoc/api_data.json -d ./yapi_api_data.json
 # python3 apidoc2yapi.py -s apidoc生成的json文件 -d 转化后的json文件
 # 该脚本可用于手动导入
 python3 apidoc2swagger.py -s ./apidoc/api_data.json -d ./swagger.json
+# 转为json schema格式的json文件，可用于请求参数检查，细节需要自行添加
+python3 apidoc2swagger.py -s ./apidoc/api_data.json -d ./swagger.json -p
 # python3 upload2yapi.py -s apidoc2swagger.py转换的json文件 -t 项目token -i yapi IP地址
 # 通过api方式上传到yapi
 python3 upload2yapi.py -s swagger.json -t <project token> -i <yapi ip address>
